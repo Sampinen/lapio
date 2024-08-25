@@ -20,3 +20,4 @@ tee
 kauraleseet
 ruisjauhot
 vehnäjauhot
+banaani
