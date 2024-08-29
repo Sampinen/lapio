@@ -21,4 +21,4 @@ tee
 kauraleseet
 ruisjauhot
 vehnäjauhot
-banaani
+banaani on hyvää
